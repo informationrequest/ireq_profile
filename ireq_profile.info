@@ -1,0 +1,17 @@
+name = IREQ Site
+description = Install a IREQ Site
+core = 7.x
+
+dependencies[] = humanitarianresponse_core
+dependencies[] = humanitarianresponse_clusters
+dependencies[] = humanitarianresponse_emergencies
+dependencies[] = humanitarianresponse_organizations
+dependencies[] = humanitarianresponse_minimal_layout
+dependencies[] = hr_cluster_objectives
+dependencies[] = hr_moderation
+dependencies[] = ireq_core
+dependencies[] = ireq_users
+dependencies[] = ireq_request
+dependencies[] = ireq_external
+files[] = ireq_profile.profile
+
